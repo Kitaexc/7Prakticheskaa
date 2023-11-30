@@ -1,0 +1,15 @@
+C:\Users\ULNV_Developer\source\repos\Herovik\Herovik\bin\Debug\net8.0\Herovik.exe
+C:\Users\ULNV_Developer\source\repos\Herovik\Herovik\bin\Debug\net8.0\Herovik.deps.json
+C:\Users\ULNV_Developer\source\repos\Herovik\Herovik\bin\Debug\net8.0\Herovik.runtimeconfig.json
+C:\Users\ULNV_Developer\source\repos\Herovik\Herovik\bin\Debug\net8.0\Herovik.dll
+C:\Users\ULNV_Developer\source\repos\Herovik\Herovik\bin\Debug\net8.0\Herovik.pdb
+C:\Users\ULNV_Developer\source\repos\Herovik\Herovik\obj\Debug\net8.0\Herovik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULNV_Developer\source\repos\Herovik\Herovik\obj\Debug\net8.0\Herovik.AssemblyInfoInputs.cache
+C:\Users\ULNV_Developer\source\repos\Herovik\Herovik\obj\Debug\net8.0\Herovik.AssemblyInfo.cs
+C:\Users\ULNV_Developer\source\repos\Herovik\Herovik\obj\Debug\net8.0\Herovik.csproj.CoreCompileInputs.cache
+C:\Users\ULNV_Developer\source\repos\Herovik\Herovik\obj\Debug\net8.0\Herovik.dll
+C:\Users\ULNV_Developer\source\repos\Herovik\Herovik\obj\Debug\net8.0\refint\Herovik.dll
+C:\Users\ULNV_Developer\source\repos\Herovik\Herovik\obj\Debug\net8.0\Herovik.pdb
+C:\Users\ULNV_Developer\source\repos\Herovik\Herovik\obj\Debug\net8.0\Herovik.genruntimeconfig.cache
+C:\Users\ULNV_Developer\source\repos\Herovik\Herovik\obj\Debug\net8.0\ref\Herovik.dll
+C:\Users\ULNV_Developer\source\repos\Herovik\Herovik\obj\Debug\net8.0\Herovik.sourcelink.json
